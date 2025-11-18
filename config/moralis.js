@@ -1,0 +1,5 @@
+// Moralis API configuration
+export const MORALIS_API_KEY = process.env.MORALIS_API_KEY || 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJub25jZSI6IjdmZmFmMmYxLTdlMDAtNDRjYi05OGZlLTM2ZTk2YTgzZjIyNyIsIm9yZ0lkIjoiNDg0Nzg3IiwidXNlcklkIjoiNDk4NzU5IiwidHlwZUlkIjoiY2JiNTRhYWMtZmY2ZC00Mjk4LThkYjEtOTAyNTgyOWZiZTA3IiwidHlwZSI6IlBST0pFQ1QiLCJpYXQiOjE3NjQ5NjMyNjgsImV4cCI6NDkyMDcyMzI2OH0.Iwf8au86mo_Cv-ZWYnOkbsUDTHtylRUPOykDpUADfnM'
+
+export const MORALIS_BASE_URL = 'https://deep-index.moralis.io/api/v2.2'
+
